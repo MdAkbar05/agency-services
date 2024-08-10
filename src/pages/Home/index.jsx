@@ -12,7 +12,7 @@ export const Home = () => {
 
   return (
     <>
-      <main className="text-center pt-5 text-4xl">
+      <main className="text-center pt-5 text-4xl ">
         {" "}
         Make Structure of Home page
       </main>
